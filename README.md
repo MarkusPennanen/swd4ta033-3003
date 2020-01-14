@@ -146,26 +146,26 @@ Vaikka ohjelmiston kaikki osat toimisivat itsenäisinä täydellisesti, voi jär
 
 ----
 
-# Aihe 2: tietokantaohjelmointi (JDBC) (DL su 2.2. klo 23:55)
+## Aihe 2: tietokantaohjelmointi (JDBC) (DL su 2.2. klo 23:55)
 
 Tämän aiheen sisältö julkaistaan seuraavaksi.
 
-# Aihe 3: Tietokannan eriyttäminen (DAO) + yksikkötestaaminen (JUnit) (DL su 9.2. klo 23:55)
+## Aihe 3: Tietokannan eriyttäminen (DAO) + yksikkötestaaminen (JUnit) (DL su 9.2. klo 23:55)
 
 Tämän aiheen sisältö julkaistaan kurssin aikana.
 
-# Aihe 4: Verkkosovellus (Servlet) (DL su 16.2. klo 23:55)
+## Aihe 4: Verkkosovellus (Servlet) (DL su 16.2. klo 23:55)
 
 Tämän aiheen sisältö julkaistaan kurssin aikana.
 
-# Aihe 5: Verkkosovelluksen kolmikerrosarkkitehtuuri (JSP, JSTL) (DL su 23.2. klo 23:55)
+## Aihe 5: Verkkosovelluksen kolmikerrosarkkitehtuuri (JSP, JSTL) (DL su 23.2. klo 23:55)
 
 Tämän aiheen sisältö julkaistaan kurssin aikana.
 
-# Aihe 6: Ajax ja datan lisääminen sivulle dynaamisesti (DL su 1.3. klo 23:55)
+## Aihe 6: Ajax ja datan lisääminen sivulle dynaamisesti (DL su 1.3. klo 23:55)
 
 Tämän aiheen sisältö julkaistaan kurssin aikana.
 
-# Aihe 7: Harjoitustyö (DL su 22.3. klo 23:55)
+## Aihe 7: Harjoitustyö (DL su 22.3. klo 23:55)
 
 Tämän aiheen sisältö julkaistaan kurssin aikana.
