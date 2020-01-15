@@ -48,7 +48,7 @@ Apua tehtävien tekoon on saatavissa kurssin Teams-kanavalla niin opettajalta ku
 
 ## Kurssin harjoitustyö
 
-Kurssin viimeisillä viikoilla sovellette aikaisempina viikkoina harjoiteltuja taitoja toteuttaessanne itsenäisesti oman tietokantapohjaisen web-sovelluksen. Harjoitustyö arvioidaan asteikolla 0-5 ja arvosanan perusteella määräytyy myös kurssin loppuarvosana. Vaikka harjoitustyö tehdään itsenäisesti, saatte keskustella siitä esimerkiksi Teamsissa kuten aikaisemmilla tehtäväkierroksilla. Kriteerinä on, että jokainen kirjoittaa itse oman koodinsa.
+Kurssin viimeisillä viikoilla sovellatte aikaisempina viikkoina harjoiteltuja taitoja toteuttaessanne itsenäisesti oman tietokantapohjaisen web-sovelluksen. Harjoitustyö arvioidaan asteikolla 0-5 ja arvosanan perusteella määräytyy myös kurssin loppuarvosana. Vaikka harjoitustyö tehdään itsenäisesti, saatte keskustella siitä esimerkiksi Teamsissa kuten aikaisemmilla tehtäväkierroksilla. Kriteerinä on, että jokainen kirjoittaa itse oman koodinsa.
 
 Tarkempi ohjeistus arvioinnin perusteista ja toteutettavan työn ominaisuuksista julkaistaan kurssin aikana.
 
