@@ -101,5 +101,67 @@ Huomaa, että SQL-kyselyjen muodostaminen merkkijonoja yhdistelemällä aiheutta
 
 Muista siis käyttää edellä linkitetyissä tutoriaaleissa esiteltyä `PreparedStatement`-luokkaa aina muodostaessasi kyselyitä, joihin syötetään dynaamisesti parametreja!
 
+Voit toteuttaa ohjelmasi matkimaan seuraavan esimerkkisovelluksen toiminnallisuuksia:
 
+```
+Welcome to the shopping list app!
+Available commands:
+ list
+ add [product name]
+ remove [product name]
+ help
+ quit
+
+> list
+
+Shopping list contents:
+(1) Milk
+
+> add Eggs
+
+Successfully added Eggs
+
+> list
+
+Shopping list contents:
+(1) Milk
+(2) Eggs
+
+> add Bread
+
+Successfully added Bread
+
+> remove Eggs
+
+Succesfully removed Eggs
+
+> list
+
+Shopping list contents:
+(1) Milk
+(3) Bread
+
+> remove Cookies
+
+Could not remove Cookies
+
+> foobar
+
+Unrecognised command "foobar". Type "help" for help.
+
+> help
+
+Welcome to the shopping list app!
+Available commands:
+ list
+ add [product name]
+ remove [product name]
+ help
+ quit
+
+> quit
+
+Bye!
+
+```
 
