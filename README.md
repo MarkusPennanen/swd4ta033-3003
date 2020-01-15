@@ -6,6 +6,24 @@ Tällä opintojaksolla sovellamme aiemmin oppimianne ohjelmointitaitoja tietokan
 
 Opettajana kurssilla toimii Teemu Havulinna (`etunimi.sukunimi@haaga-helia.fi`).
 
+## Kurssin aikataulu ja aiheet:
+
+### [Aihe 1: Yksikkötestauksen perusteet ja koodin laatu](01_yksikkotestaus.md) (DL su 26.1. klo 23:55)
+
+### [Aihe 2: tietokantaohjelmointi (JDBC)](02_tietokantaohjelmointi.md) (DL su 2.2. klo 23:55)
+
+### (Tulossa) Aihe 3: Tietokannan eriyttäminen (DAO) + yksikkötestaaminen (JUnit) (DL su 9.2. klo 23:55)
+
+### (Tulossa) Aihe 4: Verkkosovellus (Servlet) (DL su 16.2. klo 23:55)
+
+### (Tulossa) Aihe 5: Verkkosovelluksen kolmikerrosarkkitehtuuri (JSP, JSTL) (DL su 23.2. klo 23:55)
+
+### (Tulossa) Aihe 6: Ajax ja datan lisääminen sivulle dynaamisesti (DL su 1.3. klo 23:55)
+
+### (Tulossa) Aihe 7: Harjoitustyö (DL su 22.3. klo 23:55)
+
+
+
 ## Viestintäkanavat
 
 Tällä kurssilla käytetään viestintään pääasiassa Microsoftin Teams -palvelua. Teams on osoittautunut oivalliseksi tueksi itseopiskelussa ja se tarjoaa luontevamman kanavan kysyä ja keskustella kuin esimerkiksi Moodle. Jos jäät jumiin koodisi kanssa tai et ymmärrä materiaaleja tai tehtävänantoja, kysy rohkeasti vinkkejä Teamsissa. Todennäköisesti samaa ongelmaa pohtii kanssasi myös moni muu, joten lähetäthän sisältöä ja tehtävänantoja koskevat kysymykset yhteiselle kanavalle (eikä yksityisviestinä opettajalle).
@@ -14,6 +32,7 @@ Teamsissa voi myös esittää toivomuksia kurssin kehittämiseksi jo kurssin aik
 
 Teams on saatavilla puhelimien sovelluskaupoista sekä työpöytäsovelluksena, tai voit käyttää sitä selaimen web-käyttöliittymässä ilman asennuksia. Kirjautuminen Teamsiin tapahtuu Haaga-Helian opiskelijatunnuksella.
 
+* [Teams Quick Start -ohje (pdf)](https://download.microsoft.com/download/D/9/F/D9FE8B9E-22F5-47BF-A1AB-09539C41FCD0/Teams%20QS.pdf)
 * [Kurssin Teams-työtila](https://teams.microsoft.com/l/team/19%3aad52d8cfc8cd4d91869e5d911dcf7194%40thread.skype/conversations?groupId=7194424b-0503-4f63-af38-be4c5e1a9f48&tenantId=a9e39483-dd21-4c25-b848-2a625cff7939)
 * [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads)
 
@@ -64,27 +83,3 @@ Nettilähteiden hyödyntäminen ja niistä mallin ottaminen on sallittua ja kann
 Mikäli et osaa Javan perusteita, nousee tämän kurssin suorittamisessa nopeasti seinä vastaan.
 
 Mikäli SQL-osaamisessasi on puutteita, suosittelen perehtymään netistä vapaasti löytyviin lähteisiin sekä tutoriaaleihin, kuten [sqlzoo.net](https://sqlzoo.net/).
-
-## Kurssin aikataulu
-
-Kurssi päättyy perjantaina 20. maaliskuuta.
-
-----
-
-## Kurssin aiheet:
-
-### [Aihe 1: Yksikkötestauksen perusteet ja koodin laatu](01_yksikkotestaus.md) (DL su 26.1. klo 23:55)
-Materiaalit ja tehtävät julkaistu sivulla [01_yksikkotestaus.md](01_yksikkotestaus.md).
-
-### [Aihe 2: tietokantaohjelmointi (JDBC)](02_tietokantaohjelmointi.md) (DL su 2.2. klo 23:55)
-Materiaalit ja tehtävät julkaistu sivulla [02_tietokantaohjelmointi.md](02_tietokantaohjelmointi.md).
-
-### Aihe 3: Tietokannan eriyttäminen (DAO) + yksikkötestaaminen (JUnit) (DL su 9.2. klo 23:55)
-
-### Aihe 4: Verkkosovellus (Servlet) (DL su 16.2. klo 23:55)
-
-### Aihe 5: Verkkosovelluksen kolmikerrosarkkitehtuuri (JSP, JSTL) (DL su 23.2. klo 23:55)
-
-### Aihe 6: Ajax ja datan lisääminen sivulle dynaamisesti (DL su 1.3. klo 23:55)
-
-### Aihe 7: Harjoitustyö (DL su 22.3. klo 23:55)
