@@ -73,6 +73,11 @@ String url = "jdbc:sqlite:C:\\databases\\my_cool_database.sqlite";
 
 MySQL-tietokantaan yhdistettäisiin vastaavasti esim. osoitteella `"jdbc:mysql://127.0.0.1:3306/my_cool_database"` ja käyttämällä projektissa MySQL-ajuria.
 
+Jenkov.com:in tutoriaalissa H2-tietokannan ajuri ladataan kirjoittamalla koodirivi `Class.forName("org.h2.Driver");`. Ajurin lataus manuualisesti ei aina ole välttämätöntä, mutta vastaava rivi SQLite-tietokannan ajurin lataamiseksi on:
+
+```java
+Class.forName("org.sqlite.JDBC");
+```
 
 ## Tehtävä (DL su 2.2. klo 23:55)
 
