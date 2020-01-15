@@ -76,8 +76,8 @@ Kurssi päättyy perjantaina 20. maaliskuuta.
 ### [Aihe 1: Yksikkötestauksen perusteet ja koodin laatu](01_yksikkotestaus.md) (DL su 26.1. klo 23:55)
 Materiaalit ja tehtävät julkaistu sivulla [01_yksikkotestaus.md](01_yksikkotestaus.md).
 
-### Aihe 2: tietokantaohjelmointi (JDBC) (DL su 2.2. klo 23:55)
-Tämän aiheen sisältö julkaistaan seuraavaksi.
+### [Aihe 2: tietokantaohjelmointi (JDBC)](02_tietokantaohjelmointi.md) (DL su 2.2. klo 23:55)
+Materiaalit ja tehtävät julkaistu sivulla [02_tietokantaohjelmointi.md](02_tietokantaohjelmointi.md).
 
 ### Aihe 3: Tietokannan eriyttäminen (DAO) + yksikkötestaaminen (JUnit) (DL su 9.2. klo 23:55)
 
