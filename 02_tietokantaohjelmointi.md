@@ -1,4 +1,4 @@
-## Aihe 2: tietokantaohjelmointi (JDBC) (DL su 2.2. klo 23:55)
+## Tietokantaohjelmointi (JDBC) (DL su 2.2. klo 23:55)
 
 Tällä viikolla opettelemme yhdistämään tietokantaan Java-ohjelmasta ja tekemään yksinkertaisia CRUD-toimenpiteitä (Create, Read, Update & Delete).
 
