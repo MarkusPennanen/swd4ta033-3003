@@ -59,7 +59,7 @@ Jenkov.com -palvelussa on laaja tutoriaali JDBC-teknologioista ja se käsittelee
 
 Edellä ohjeistetun Jenkov.com:in tutoriaalin lisäksi myös Oraclella on [kattava oppimateriaali](https://docs.oracle.com/javase/tutorial/jdbc/basics/index.html) JDBC:n opetteluun. Hyviä ohjeita löytyy myös YouTubesta sekä Googlettamalla tarkemmin yksittäisiä JDBC-aiheita.
 
-### Yhteyden muodostaminen SQLite-tietokantaan
+### SQLite-tietokannan yhteysosoite
 
 Muodostaessasi yhteyden tietokantaan `DriverManager.getConnection(url)`-metodin avulla, tulee sinun antaa parametrina merkkijono, joka on tietokanta-ajurikohtainen "connection url". Yhteysosoitteet alkavat aina tekstillä `jdbc:` ja ajurin nimellä. Ajurin nimen jälkeen kirjoitetaan kaksoispiste, ja sen jälkeen esimerkiksi tietokannan sijainti levyllä (SQLite) tai verkossa (MySQL).
 
